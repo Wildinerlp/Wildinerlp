@@ -25,20 +25,20 @@ Da saúde para a tecnologia: uma nova carreira, construída linha por linha. �
     <a href="https://www.linkedin.com/in/wildiner-lopes-256791118/">
         <img 
             alt="youtube subscribers" 
-            title="Conecte ao LinkedIn" 
+            title="Conecte ao LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/-Wildiner Lopes-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.google.com/maps/place/São+Paulo,+SP/data=!4m2!3m1!1s0x94ce448183a461d1:0x9ba94b08ff335bae?sa=X&ved=1t:242&ictx=111">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/badge/São Paulo-BRA-purple?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Wildinerlp?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Seguidores"
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Wildinerlp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
