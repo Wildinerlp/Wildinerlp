@@ -24,7 +24,7 @@ Da saúde para a tecnologia: uma nova carreira, construída linha por linha. �
 <p align="left">
     <a href="https://www.linkedin.com/in/wildiner-lopes-256791118/">
         <img 
-            alt="youtube subscribers" 
+            alt="Link para o LinkedIn" 
             title="Conecte ao LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/-Wildiner Lopes-red?style=for-the-badge&logo=mention&logoColor=white"
         />
